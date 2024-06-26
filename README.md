@@ -10,8 +10,6 @@ This is a solution to the [Interactive rating component challenge on Frontend Me
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
 - [Author](#author)
 
 
@@ -38,6 +36,7 @@ Desktop Thank You State
 ![](./screenshot/Desktop-Thank-You-State.png)
 
 Mobile Preview
+
 ![](./screenshot/Mobile%20Preview.png)
 
 
